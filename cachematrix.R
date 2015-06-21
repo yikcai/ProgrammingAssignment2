@@ -38,4 +38,4 @@ cacheSolve <- function(x, ...) {
 }
 
 ## Screenshot of example outputs can be found at
-## 
+## https://github.com/yikcai/ProgrammingAssignment2/blob/master/Example%20outputs.png
